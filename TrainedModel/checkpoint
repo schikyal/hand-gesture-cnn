@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sai/projects/gesture/TrainedModel/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/home/sai/projects/gesture/TrainedModel/GestureRecogModel.tfl"
